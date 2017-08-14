@@ -1,5 +1,5 @@
 # pixellated_PSF_correction
-# this is independent code for doing the PSF correction.
+this is independent code for doing the PSF correction.
 # Step1:
 # Given a PSF (any model) and mass model, use gravlens to find the best fit and then generate an AGN_light_only.fits (data-lens_light-arc_light)  and a data-model.fits (data-lens_light-arc_light_AGNlight) file 
 # Step2:
