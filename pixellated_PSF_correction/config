@@ -1,0 +1,12 @@
+residuals_image-model spemd1_forfittingPSFparameter_es001_im_residuals.fits
+noise_map PG1115_NIC2_F160W_rms_6x6.fits
+image_resolution_in_arcsec 0.05
+old_PSF iteration.fits
+dimension_for_correction_odd_number_only 39
+dimension_for_convolution_odd_number_only 19
+x1_in_arcsec 3.360121
+y1_in_arcsec 4.332821
+x2_in_arcsec 2.045545
+y2_in_arcsec 2.296834
+intensityof1(weak) 108.224362
+intensityof2(strong) 407.368405
